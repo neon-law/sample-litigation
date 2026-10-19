@@ -1,0 +1,11 @@
+# Per-machine agent settings.
+.agents/settings.local.json
+.agents/worktrees/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Document staging. `navigator project sync` downloads document bytes beside each committed
+# pointer; the pointer is the committed record and the bytes never are.
+documents/**/*.pdf
