@@ -1,5 +1,6 @@
 kind: pleading
-visibility: client
+visibility: internal
+folder: Work Product
 current_version:
   version: 1
   asset_id: 01a0ab85-2c7a-7184-9e1f-cbfdbf9d7ac6
